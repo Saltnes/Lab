@@ -1,0 +1,7 @@
+C:\Users\Saltn\RiderProjects\Oppgave 9.1.2022\Oppgave 9.1.2022\bin\Debug\Oppgave_9._1._2022.exe
+C:\Users\Saltn\RiderProjects\Oppgave 9.1.2022\Oppgave 9.1.2022\bin\Debug\Oppgave_9._1._2022.pdb
+C:\Users\Saltn\RiderProjects\Oppgave 9.1.2022\Oppgave 9.1.2022\obj\Debug\Oppgave 9.1.2022.csproj.AssemblyReference.cache
+C:\Users\Saltn\RiderProjects\Oppgave 9.1.2022\Oppgave 9.1.2022\obj\Debug\Oppgave 9.1.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saltn\RiderProjects\Oppgave 9.1.2022\Oppgave 9.1.2022\obj\Debug\Oppgave 9.1.2022.csproj.CoreCompileInputs.cache
+C:\Users\Saltn\RiderProjects\Oppgave 9.1.2022\Oppgave 9.1.2022\obj\Debug\Oppgave_9._1._2022.exe
+C:\Users\Saltn\RiderProjects\Oppgave 9.1.2022\Oppgave 9.1.2022\obj\Debug\Oppgave_9._1._2022.pdb
