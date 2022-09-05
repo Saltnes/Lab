@@ -1,0 +1,8 @@
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\bin\Debug\LabFindBob.exe.config
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\bin\Debug\LabFindBob.exe
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\bin\Debug\LabFindBob.pdb
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\obj\Debug\LabFindBob.csproj.AssemblyReference.cache
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\obj\Debug\LabFindBob.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\obj\Debug\LabFindBob.csproj.CoreCompileInputs.cache
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\obj\Debug\LabFindBob.exe
+C:\Users\Saltn\RiderProjects\LabFindBob\LabFindBob\obj\Debug\LabFindBob.pdb

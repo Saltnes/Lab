@@ -1,0 +1,8 @@
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\bin\Debug\LabFlybillettIfElse.exe.config
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\bin\Debug\LabFlybillettIfElse.exe
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\bin\Debug\LabFlybillettIfElse.pdb
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\obj\Debug\LabFlybillettIfElse.csproj.AssemblyReference.cache
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\obj\Debug\LabFlybillettIfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\obj\Debug\LabFlybillettIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\obj\Debug\LabFlybillettIfElse.exe
+C:\Users\Saltn\RiderProjects\LabFlybillettIfElse\LabFlybillettIfElse\obj\Debug\LabFlybillettIfElse.pdb

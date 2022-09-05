@@ -1,0 +1,8 @@
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\bin\Debug\LabLoops.exe.config
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\bin\Debug\LabLoops.exe
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\bin\Debug\LabLoops.pdb
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\obj\Debug\LabLoops.csproj.AssemblyReference.cache
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\obj\Debug\LabLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\obj\Debug\LabLoops.csproj.CoreCompileInputs.cache
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\obj\Debug\LabLoops.exe
+C:\Users\Saltn\RiderProjects\LabLoops\LabLoops\obj\Debug\LabLoops.pdb

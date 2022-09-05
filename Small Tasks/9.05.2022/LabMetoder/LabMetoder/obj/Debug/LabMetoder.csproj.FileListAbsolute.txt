@@ -1,0 +1,8 @@
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\obj\Debug\LabMetoder.csproj.AssemblyReference.cache
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\obj\Debug\LabMetoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\obj\Debug\LabMetoder.csproj.CoreCompileInputs.cache
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\bin\Debug\LabMetoder.exe.config
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\bin\Debug\LabMetoder.exe
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\bin\Debug\LabMetoder.pdb
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\obj\Debug\LabMetoder.exe
+C:\Users\Saltn\RiderProjects\LabMetoder\LabMetoder\obj\Debug\LabMetoder.pdb
