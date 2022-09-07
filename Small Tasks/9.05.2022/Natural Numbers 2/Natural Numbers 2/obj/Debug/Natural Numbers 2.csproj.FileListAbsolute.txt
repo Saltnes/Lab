@@ -1,0 +1,7 @@
+C:\Users\Saltn\RiderProjects\Natural Numbers 2\Natural Numbers 2\bin\Debug\Natural_Numbers_2.exe
+C:\Users\Saltn\RiderProjects\Natural Numbers 2\Natural Numbers 2\bin\Debug\Natural_Numbers_2.pdb
+C:\Users\Saltn\RiderProjects\Natural Numbers 2\Natural Numbers 2\obj\Debug\Natural Numbers 2.csproj.AssemblyReference.cache
+C:\Users\Saltn\RiderProjects\Natural Numbers 2\Natural Numbers 2\obj\Debug\Natural Numbers 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saltn\RiderProjects\Natural Numbers 2\Natural Numbers 2\obj\Debug\Natural Numbers 2.csproj.CoreCompileInputs.cache
+C:\Users\Saltn\RiderProjects\Natural Numbers 2\Natural Numbers 2\obj\Debug\Natural_Numbers_2.exe
+C:\Users\Saltn\RiderProjects\Natural Numbers 2\Natural Numbers 2\obj\Debug\Natural_Numbers_2.pdb
