@@ -1,3 +1,3 @@
 # Lab
 
-Varius tasks
+Various tasks
