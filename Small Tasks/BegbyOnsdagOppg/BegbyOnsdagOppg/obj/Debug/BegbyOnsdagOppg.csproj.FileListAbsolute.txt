@@ -1,0 +1,7 @@
+C:\Users\robin\RiderProjects\BegbyOnsdagOppg\BegbyOnsdagOppg\obj\Debug\BegbyOnsdagOppg.csproj.AssemblyReference.cache
+C:\Users\robin\RiderProjects\BegbyOnsdagOppg\BegbyOnsdagOppg\obj\Debug\BegbyOnsdagOppg.csproj.SuggestedBindingRedirects.cache
+C:\Users\robin\RiderProjects\BegbyOnsdagOppg\BegbyOnsdagOppg\obj\Debug\BegbyOnsdagOppg.csproj.CoreCompileInputs.cache
+C:\Users\robin\RiderProjects\BegbyOnsdagOppg\BegbyOnsdagOppg\bin\Debug\BegbyOnsdagOppg.exe
+C:\Users\robin\RiderProjects\BegbyOnsdagOppg\BegbyOnsdagOppg\bin\Debug\BegbyOnsdagOppg.pdb
+C:\Users\robin\RiderProjects\BegbyOnsdagOppg\BegbyOnsdagOppg\obj\Debug\BegbyOnsdagOppg.exe
+C:\Users\robin\RiderProjects\BegbyOnsdagOppg\BegbyOnsdagOppg\obj\Debug\BegbyOnsdagOppg.pdb
